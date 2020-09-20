@@ -1,7 +1,7 @@
 # Purpose
-2
+
 The purpose of this analysis is to determine the how many employees within their respective titles are in line to retire at Pewlett Hackard.
-3
+
 Pewllet Hackard is also interested in establishing a mentorship program and determining which and how many of their employees are eligible for the program given their age. 
 
 
