@@ -5,7 +5,7 @@ The purpose of this analysis is to determine the how many employees within their
 Pewllet Hackard is also interested in establishing a mentorship program and determining which and how many of their employees are eligible for the program given their age. 
 
 
-#Results 
+# Results 
 
 - From the retiring_titles data, it can determined that the highest number of employees hold the title of Senior Engineer and Senior Staff at Pewllet Hackard. 
 
@@ -15,7 +15,7 @@ Pewllet Hackard is also interested in establishing a mentorship program and dete
 
 -The minority of the employees at Pewlllet Hackard are closer to being entry level. 
 
-#Summary 
+# Summary 
 
 Given the data rendered from Pewllet Hackard’s employee profiles, it can be determined that about 29,414 employees fill the Senior Engineer roles. It is this number of positions that Pewllet Hackard should assume would need to be filled soon. Pewllet Hackard should consider opening up more Assistant Engineer positions and promoting the current Assistant Engineers to the Senior level in preparation for the “silver tsunami”.
 
