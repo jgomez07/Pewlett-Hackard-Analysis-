@@ -13,7 +13,7 @@ Pewllet Hackard is also interested in establishing a mentorship program and dete
 
 - The majority of the employees at Pewllet Hackard are at the senior level which indicates they may be closer to retirement age. 
 
--The minority of the employees at Pewlllet Hackard are closer to being entry level. 
+- The minority of the employees at Pewlllet Hackard are closer to being entry level. 
 
 # Summary 
 
